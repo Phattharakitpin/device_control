@@ -10,7 +10,7 @@ void loop() {
     Road(greenRoad);
     delay(3000);  // รอระหว่างรอบเพื่อให้ดูผลชัดเจน
   }
-
+  Serial.println("Phattharakit Pinkaew")
   Serial.println("&");
   Serial.println("Loop back to start");
   
